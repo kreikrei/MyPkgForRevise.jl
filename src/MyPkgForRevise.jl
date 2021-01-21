@@ -1,5 +1,5 @@
 module MyPkgForRevise
 
-greet() = print("Hello World!")
+greet() = print("Hello REvised World!")
 
 end
